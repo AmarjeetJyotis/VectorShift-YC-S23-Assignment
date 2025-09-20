@@ -1,9 +1,27 @@
-# VectorShift Frontend Technical Assessment
+# VectorShift-YC-S23 Frontend Technical Assessment
 
 
 ## Assignment Overview
 
 This repository contains the solution to the **VectorShift Frontend Technical Assessment**. The project consists of a frontend built using **React** and a backend implemented with **FastAPI**. The goal of this project is to create a flexible and reusable node abstraction, enhance the styling, improve the text node logic, and integrate the frontend with the backend for pipeline submission.
+
+<img width="1904" height="1079" alt="image" src="https://github.com/user-attachments/assets/048d3e98-d402-49a2-bff6-43bd5f44cefb" />
+
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
 
 ## Project Structure
 
