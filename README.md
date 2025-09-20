@@ -5,6 +5,9 @@
 
 This repository contains the solution to the **VectorShift Frontend Technical Assessment**. The project consists of a frontend built using **React** and a backend implemented with **FastAPI**. The goal of this project is to create a flexible and reusable node abstraction, enhance the styling, improve the text node logic, and integrate the frontend with the backend for pipeline submission.
 
+🌐 **Live Site**: [amarjeetkumar](https://vectorshift-y-s23.vercel.app/)  
+📁 **Source Code**: [GitHub Repository](https://github.com/AmarjeetJyotis/VectorShift-YC-S23-Assignment.git)
+
 <img width="1904" height="1079" alt="image" src="https://github.com/user-attachments/assets/048d3e98-d402-49a2-bff6-43bd5f44cefb" />
 
 
